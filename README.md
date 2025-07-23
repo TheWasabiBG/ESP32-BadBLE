@@ -25,6 +25,7 @@ Setup Guide:
 !!! 
 
 <img width="381" height="589" alt="image" src="https://github.com/user-attachments/assets/dd3b53b6-048e-4f25-a55e-f23a2bd4d833" />
+<img width="1012" height="902" alt="image" src="https://github.com/user-attachments/assets/3f40c3f1-460a-423c-b491-da05c1176994" />
 
 Other info:
 I know my code is awful but its my first ever project. Feel free to improve my code and tell me if you've done so 
