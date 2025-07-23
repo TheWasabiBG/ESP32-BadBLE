@@ -1,8 +1,6 @@
 # ESP32-BadBLE
 ESP32 BadBLE is an project that turns your esp32,esp32s3,esp32c3 supper mini and other into a recognizable Bluetooth device that you can send keystrokes and button combinations through an WebUI hosted on the esp's webserver.
 
-<img width="381" height="589" alt="image" src="https://github.com/user-attachments/assets/dd3b53b6-048e-4f25-a55e-f23a2bd4d833" />
-
 Setup Guide:
 1) Download the repo
 2) install the nesessery lib's included in the repo or but them in C:\Users\[user]\Documents\Arduino\libraries
@@ -26,6 +24,7 @@ Setup Guide:
 5) DON'T BE A SKID
 !!! 
 
+<img width="381" height="589" alt="image" src="https://github.com/user-attachments/assets/dd3b53b6-048e-4f25-a55e-f23a2bd4d833" />
 
 Other info:
 I know my code is awful but its my first ever project. Feel free to improve my code and tell me if you've done so 
